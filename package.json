@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate of react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaSkilzs/Boilerplate-React-App.git"
+  },
+  "author": "LaFountain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaSkilzs/Boilerplate-React-App/issues"
+  },
+  "homepage": "https://github.com/LaSkilzs/Boilerplate-React-App#readme",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
